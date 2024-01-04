@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "Iphone 15",
+      "category": "iphone",
+      "condition": "New",
+      "price": "1800",
+      "date": "2024-01-09T19:00:00.000Z",
+      "comment": "new",
+      "id": 1
+    },
+    {
+      "productName": "e",
+      "category": "Samsung",
+      "condition": "New",
+      "price": "e",
+      "date": "2024-01-04T19:00:00.000Z",
+      "comment": "e",
+      "id": 2
+    }
+  ]
+}
